@@ -1,0 +1,8 @@
+Website = "https://spiritgoal.com"
+
+[Details]
+  Icon = "logo.png"
+  Name = "SpiritDns"
+  ID = "com.spiritgoal.dns"
+  Version = "1.0.1"
+  Build = 11
